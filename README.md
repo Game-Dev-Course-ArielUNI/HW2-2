@@ -21,6 +21,6 @@ aspect = Screen.width / Screen.height
 
 התכונה Size של המצלמה קובע כמה יחידות נכנסות לגובה המסך , כאשר המסך נהיה צר יותר,הרוחב קטן ואנחנו רואים את העצמים גדולים יותר.
 
-קישור למשחק ב itch.io:
+# קישור למשחק ב itch.io:
 
 https://yousef-masarwa97.itch.io/nemo
