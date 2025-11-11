@@ -25,7 +25,3 @@ aspect = Screen.width / Screen.height
 
 https://yousef-masarwa97.itch.io/nemo
 
-קישור למשחק (שונה מזה של הitch io):
-
-http://localhost:49632/
-
